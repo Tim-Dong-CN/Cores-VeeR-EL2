@@ -7,7 +7,7 @@ on:
       - completed
 
 env:
-  WEB_URL: 'https://chipsalliance.github.io/Cores-VeeR-EL2/'
+  WEB_URL: 'https://github.com/Tim-Dong-CN/Cores-VeeR-EL2/'
 
 jobs:
   comment:
